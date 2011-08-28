@@ -1,0 +1,18 @@
+﻿@{
+    SquishIt.Css.Add("~/Content/Site.css");
+    SquishIt.JavaScript.Add("~/Scripts/jquery-1.4.4.min.js", "jquery.validate.min.js");
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+
+    @SquishIt.Css.Render("~/Content/Site.min.css")
+</head>
+
+<body>
+    @RenderBody()
+
+    @SquishIt.JavaScript.Render("~/Scripts/Site.min.js")
+</body>
+</html>

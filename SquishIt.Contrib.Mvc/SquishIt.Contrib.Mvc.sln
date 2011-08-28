@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquishIt.Contrib.Mvc", "SquishIt.Contrib.Mvc\SquishIt.Contrib.Mvc.csproj", "{241EA354-2FFD-4F7F-A7C6-4EACBDECDA0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.SquishIt.Contrib.Mvc", "Demo.SquishIt.Contrib.Mvc\Demo.SquishIt.Contrib.Mvc.csproj", "{3BA840B8-3CA2-4653-B03F-D7B2127B704C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241EA354-2FFD-4F7F-A7C6-4EACBDECDA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241EA354-2FFD-4F7F-A7C6-4EACBDECDA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241EA354-2FFD-4F7F-A7C6-4EACBDECDA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241EA354-2FFD-4F7F-A7C6-4EACBDECDA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA840B8-3CA2-4653-B03F-D7B2127B704C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA840B8-3CA2-4653-B03F-D7B2127B704C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA840B8-3CA2-4653-B03F-D7B2127B704C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA840B8-3CA2-4653-B03F-D7B2127B704C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
