@@ -60,9 +60,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Helpers\CssHelper.cs" />
+    <Compile Include="Helpers\File.cs" />
     <Compile Include="Helpers\ICssHelper.cs" />
     <Compile Include="Helpers\IJavaScriptHelper.cs" />
     <Compile Include="Helpers\JavaScriptHelper.cs" />
+    <Compile Include="Helpers\RemoteFile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SquishItBasePage.cs" />
     <Compile Include="SquishItHelper.cs" />
